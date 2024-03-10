@@ -1,4 +1,4 @@
-#Event Management Platform - Backend
+# Event Management Platform - Backend
 
 This backend system provides functionalities for user registration, event management, and participant management for a virtual event management platform. It features secure user authentication using bcrypt for password hashing and JWT for session management.
 
